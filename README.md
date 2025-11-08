@@ -14,7 +14,6 @@ Perfect for servers that rely on Steam identifiers for authentication, whitelist
 
 add the following to your server.cfg file:
 
-## Steam Required
 set steam_webApiKey ""
 set sv_authMaxVariance 1
 set sv_authMinTrust 5
