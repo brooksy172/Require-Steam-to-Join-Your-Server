@@ -1,0 +1,21 @@
+STEAM_REQUIRED — License & Terms
+--------------------------------
+
+Copyright (c) 2025 - Brooksy172
+
+All Rights Reserved.
+
+This software is distributed for use on private servers only. Redistribution, resale,
+repackaging, modification for the purpose of removing author attribution, or claiming
+authorship is prohibited without explicit written permission from the copyright owner.
+
+You MAY:
+ - Use this on your server(s).
+ - Modify for personal use (do not distribute modified versions).
+
+You MAY NOT:
+ - Publish, redistribute, sell, or claim authorship.
+ - Remove or alter the header comments or runtime watermark without permission.
+
+To request redistribution rights, commercial licensing, or bespoke changes, contact:
+discord: brooksy172
