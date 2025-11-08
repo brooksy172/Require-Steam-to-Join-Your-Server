@@ -12,3 +12,4 @@ Perfect for servers that rely on Steam identifiers for authentication, whitelist
     •    🧩 Works with any framework (ESX, QBCore, standalone)
 
 
+<img width="1447" height="1051" alt="image" src="https://github.com/user-attachments/assets/0f3009e4-0cea-4340-ae4a-21126d7065b8" />
