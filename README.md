@@ -10,3 +10,5 @@ Perfect for servers that rely on Steam identifiers for authentication, whitelist
     •    ⚙️ Easy configuration — no dependencies
     •    ⚡ Lightweight and optimized
     •    🧩 Works with any framework (ESX, QBCore, standalone)
+
+
